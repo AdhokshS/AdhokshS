@@ -67,5 +67,3 @@ Here’s your GitHub README profile with your details integrated. Let me know if
   </a>
 </p>
 
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhokshs&show_icons=true&locale=en" alt="adhokshs" /></p>
