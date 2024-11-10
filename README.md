@@ -2,37 +2,28 @@ Here’s your GitHub README profile with your details integrated. Let me know if
 
 ---
 
-<h1 align="center">Hi, 👋 I'm Adhoksh Sonawane</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring Product Manager, Business Analyst, and a collaborative team player.</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adhokshs&label=Profile%20views&color=0e75b6&style=flat" alt="adhokshs" />
-</p>
+<h1 align="center">Hi, 👋 I am Adhoksh Sonawane</h1>
+<h3 align="center">A passionate Information Systems graduate student, aspiring Product Manager, Business Analyst, and a results-driven leader..</h3>
 
 <p align="left"> 
   <a href="https://linkedin.com/in/adhokshs" target="_blank">
     <img src="https://img.shields.io/badge/-Adhoksh%20Sonawane-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a> 
-  <a href="https://adhoksh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 # 💫 About Me:
 
-🔭 I’m currently pursuing my **Masters in Information Systems** at San Diego State University, focusing on **Data Analytics and Data Science** (GPA: 3.8/4.0).
+🔭 I’m currently pursuing my **Masters in Information Systems** at San Diego State University. (GPA: 3.8/4.0).
 
 🌱 Actively exploring opportunities in **Product Management**, **Business Analytics**, **Project Management**, and **Data Analytics**.
 
-🤝 I thrive in team environments, collaborating across functions to drive impactful projects.
+🤝 I thrive in collaborative settings, partnering with cross-functional teams to drive meaningful outcomes
 
 💬 Ask me about **SQL**, **Python**, **PowerBI**, **Tableau**, **JIRA**, **ETL**, **SAP Hybris**, or topics in **Business Analytics**, **Product Management**, and **Project Management**.
 
-🚀 My experience includes **RDBMS**, **Data Warehousing**, **AWS services**, **Oracle ERP Systems**, and developing **Data Analytics & Visualization** solutions using **Power BI/Tableau**.
+🚀 My experience encompasses **Requirements Gathering**, **Data Warehousing**, ***Enterprise Resource Planning (ERP)*** , and building ***Data-Driven Analytics & Visualization*** solutions using ***Power BI and Tableau*** to support strategic insights and optimize business processes..
 
 📫 Reach me at **us.adhoksh@gmail.com** or **adhokshs@gmail.com**
-
-⚡ Fun fact: I speak 5+ languages, which helps me connect well with diverse teams and clients!
 
 <br/>
 
