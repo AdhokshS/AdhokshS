@@ -33,20 +33,8 @@ Here’s your GitHub README profile with your details integrated. Let me know if
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.snowflake.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/bestofdevicons/snowflake/master/snowflake-original.svg" alt="Snowflake" width="40" height="40"/> 
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a> 
-  <a href="https://airflow.apache.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> 
@@ -59,7 +47,6 @@ Here’s your GitHub README profile with your details integrated. Let me know if
 <img src="https://img.shields.io/badge/Python-%233670A0?style=for-the-badge&logo=Python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
