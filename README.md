@@ -1,6 +1,3 @@
-Here’s your GitHub README profile with your details integrated. Let me know if you'd like any additional modifications!
-
----
 
 <h1 align="center">Hi, 👋 I am Adhoksh Sonawane</h1>
 <h3 align="center">A passionate Information Systems graduate student, aspiring Product Manager, Business Analyst, and a results-driven leader..</h3>
